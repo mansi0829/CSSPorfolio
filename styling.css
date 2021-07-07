@@ -1,0 +1,118 @@
+
+.top{
+  background-color: #E4F9F5;
+  padding-top: 20px;
+  color:#5F939A;
+}
+.middle{
+background-color: #E4F9F5;
+padding-bottom: 100px;
+}
+.bottom{
+font-size: 20px;
+background-color: #66BFBF;
+padding: 20px 0 12px;
+}
+.p{float=right;}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 300%;
+  color:#053742;
+  margin:0 auto;}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#5F939A;
+  font-size: 3rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#5E8B7E;
+}
+body{
+  margin:0;
+  text-align: center;
+  /**https://fonts.google.com/share?selection.family=Dancing%20Script:wght@500**/
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+.fly{
+  top: 310px;
+  position:absolute;
+  margin-left:260px;
+
+}
+.butter{
+  top: 50px;
+  position: relative;
+  margin-right: 1000px;
+
+}
+.dimension{
+  height:300px;
+  width:1250px;
+}
+.adjust{
+  color: #99154E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+.skill1{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.skill2{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+hr{
+  width:5%;
+
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom:10px dotted #A7BBC7;
+
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #5E8B7E 5%, #5E8B7E 100%);
+	background-color:#5E8B7E;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#EAF6F6;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%,#30e3cb 100%);
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copy{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px;
+}
